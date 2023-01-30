@@ -1,0 +1,1 @@
+(As explicações estão no Readme)
