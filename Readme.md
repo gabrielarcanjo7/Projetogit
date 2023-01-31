@@ -1,4 +1,4 @@
-*Olá esse projeto ensina a voçê a usar o Git.*
+*Olá esse projeto ensina a voçê a usar as principais ferramentas do Git.*
 
 ____________________________________________
 
