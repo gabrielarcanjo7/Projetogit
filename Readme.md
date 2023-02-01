@@ -1,5 +1,6 @@
 Olá esse projeto ensina a voçê a usar as principais ferramentas do Git.
 
+( Os commits não estão com uma mudança consideravél, pois são estudos de prática pessoal )
 ____________________________________________
 
 
