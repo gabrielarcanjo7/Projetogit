@@ -31,6 +31,10 @@ __________________________________________
 *git status : mostra o status do git.
 __________________________________________
 *git checkout -b "nomedabranch" : cria uma nova branch.
+
+ou, git branch "nomedabranch".
+
+git branch : mostra qual branch voçê está.
 __________________________________________
 *git checkout main : volta para branch main ou alterna entre qualquer outra.
 __________________________________________
