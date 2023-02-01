@@ -25,13 +25,19 @@ ________________________________________
 (git push origin main : Outra forma caso der errado a primeira, há também esta.)
 
 o origin se refere ao apelido do branch >>> origin main.
-_________________________________________
+__________________________________________
 *clear : limpa o conteudo do git bash.
-_______________________________________
+__________________________________________
 *git status : mostra o status do git.
-_______________________________________
+__________________________________________
 *git checkout -b "nomedabranch" : cria uma nova branch.
-_________________________________________
+__________________________________________
 *git checkout main : volta para branch main ou alterna entre qualquer outra.
 __________________________________________
 *git reflog : visualiza as alterações feitas.
+__________________________________________
+*git reset --hard 1658aa4 : volta as versões antigas do código por meio do id que é passado pelo git reflog (o numero acima é uma demonstração)
+
+(apenas se precisar)
+___________________________________________
+*
