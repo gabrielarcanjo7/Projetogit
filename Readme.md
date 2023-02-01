@@ -51,7 +51,7 @@ ____________________________________
 ____________________________________
 * git pull : pega as atualizações da branch do repositório para o seu repositorio local.
 
-[
+
     Boas práticas para se trabalhar em equipe np git em ordem:
 
     1° git pull da branch principal.
@@ -69,4 +69,5 @@ ____________________________________
     7° mergiar(unir) o código da branch temporário com a branch principal( DEPOIS DE TESTAR ).
 
     8° git push na branch principlal.
-]
+
+_______________________________________________________________________________________________
