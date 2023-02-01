@@ -31,3 +31,6 @@ _______________________________________
 _______________________________________
 *git checkout -b "nomedabranch" : cria uma nova branch.
 _________________________________________
+*git checkout main : volta para branch main ou alterna entre qualquer outra.
+__________________________________________
+*git reflog : visualiza as alterações feitas.
