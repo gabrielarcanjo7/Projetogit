@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Olá esse projeto ensina a voçê a usar as principais ferramentas do Git.
-=======
 *Olá esse projeto ensina a voçê a usar as principais ferramentas do Git.*
->>>>>>> 9ee1398d9c5da32a130929694b3bf355f2132249
 
 ( Os commits não estão com uma mudança consideravél, pois são estudos de prática pessoal )
 ____________________________________________
@@ -29,7 +25,7 @@ ________________________________________
 (git push origin main : Outra forma caso der errado a primeira, há também esta.)
 
 o origin se refere ao apelido do branch >>> origin main.
-<<<<<<< HEAD
+
 __________________________________________
 *clear : limpa o conteudo do git bash.
 __________________________________________
@@ -55,4 +51,4 @@ _________________________________________
 _______________________________________
 * git status : mostra o status do git.
 _______________________________________
->>>>>>> 9ee1398d9c5da32a130929694b3bf355f2132249
+
